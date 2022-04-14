@@ -5,3 +5,8 @@ Chains
 Stores
 Departments
 Employee
+
+Adding Few More features:
+Payroll
+Schedules
+Timesheets
