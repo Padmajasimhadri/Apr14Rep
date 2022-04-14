@@ -1,0 +1,7 @@
+This is finance based application
+
+Features are:
+Chains
+Stores
+Departments
+Employee
