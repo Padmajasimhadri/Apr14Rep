@@ -10,3 +10,7 @@ Adding Few More features:
 Payroll
 Schedules
 Timesheets
+
+Skeptical about new featores like...
+Terminals
+Reports
